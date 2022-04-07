@@ -5,6 +5,7 @@ Quiz Application project is a desktop application developed using C# Language. T
 
 
 # Screenshots
-![image](app_screens/Снимок экрана 2022-04-08 005940.png)
-![image](app_screens/Снимок экрана 2022-04-08 005737.png)
+![image](app_screens/screen1.png)
+![image](app_screens/screen2.png)
+![image](app_screens/screen3.png)
 
